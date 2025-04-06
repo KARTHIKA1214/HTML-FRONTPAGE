@@ -1,0 +1,25 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.header {
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    padding-top: 20px;
+    padding-left: 8%; 
+    padding-right: 8%; 
+    }
+    nav{
+        display: flex;
+    align-items: center;
+    justify-content:space-between;
+    
+    }
+nav UL LI{
+    list-style: none;
+    display: inline-block;
+    padding: 10px,25px;
+    margin: 20px;
+}
